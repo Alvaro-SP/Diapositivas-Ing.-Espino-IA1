@@ -1,0 +1,42 @@
+    INFO: 2023-12-03 20:50:02,778:               log.py:   20: Logging to /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/mdpdf.log
+   DEBUG: 2023-12-03 20:50:02,779:               cli.py:  103: Lección 6. Algoritmos genéticos.md
+    INFO: 2023-12-03 20:50:02,780:         converter.py:   14: Lección 6. Algoritmos genéticos.md
+   ERROR: 2023-12-03 20:50:02,788:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva00.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,790:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,792:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva01.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,793:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,794:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva02.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,795:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,797:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva03.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,797:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,798:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva04.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,799:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,800:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva05.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,801:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,802:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva06.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,803:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,803:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva07.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,804:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,804:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva08.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,805:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,805:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva09.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,805:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,806:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva10.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,806:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,807:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva11.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,807:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,808:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva12.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,808:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,809:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva13.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,810:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,811:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva14.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,813:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,814:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva15.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,814:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,815:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva16.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,816:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,816:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva17.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,817:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,817:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva18.JPG: No such file or directory
+   DEBUG: 2023-12-03 20:50:02,818:      pdf_renderer.py:  470: printSegment:  
+   ERROR: 2023-12-03 20:50:02,819:      pdf_renderer.py:  217: /home/droid/Documents/Diapositivas-Ing.-Espino-IA1/Lección 6. Algoritmos genéticos.md:20: http://kunusoft.com/slides/ia1/ia106_geneticos/Diapositiva19.JPG: No such file or directory
